@@ -22,6 +22,10 @@ Voici la liste des différents fichiers proposés dans KIX-0 :
 		<td><b>CAT.PAS</b></td>
 		<td>Cette commande permet d'afficher le contenu d'un/des fichiers. Cette commande est un équivalent de UNIX.</td>
 	</tr>	
+	<tr>
+			<td><b>MV.PAS</b></td>
+			<td>Cette commande permet de déplacer un fichier.</td>
+		</tr>
    	<tr>
 		<td><b>SD.PAS</b></td>
 		<td>Cette commande permet d'imprimer le contenu de l'écran. Cette commande est inspiré du logiciel <a href="https://www.gladir.com/SOFTWARE/KIX/presentation.htm">KIX</a> de Kyan Software pour Apple II.</td>
