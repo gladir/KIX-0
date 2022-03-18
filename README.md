@@ -1,5 +1,5 @@
 # KIX-0
-Clone des commandes <a href="https://www.gladir.com/SOFTWARE/KIX/presentatio.htm">KIX</a> de Kyan Software pour l'Apple II en Pascal
+Clone des commandes <a href="https://www.gladir.com/SOFTWARE/KIX/presentation.htm">KIX</a> de Kyan Software pour l'Apple II en Pascal
 
 <h2>Liste des fichiers</h2>
 
